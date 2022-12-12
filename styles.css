@@ -8,32 +8,18 @@
   margin: 0;
 }
 
-#nav {
-  width: 0;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
+#nav-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
   background-color: #333;
   color: #fff;
-  padding: 20px;
-  transition: 0.5s;
-  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
 }
 
-#nav ul {
-  margin: 0;
-  padding: 0;
-}
-
-#nav li {
-  display: block;
-  margin-bottom: 10px;
-}
-
-#nav a {
-  color: #fff;
-  text-decoration: none;
+#nav-menu {
+  display: none;
 }
 
 #content {
