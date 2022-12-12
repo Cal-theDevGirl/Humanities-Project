@@ -17,3 +17,7 @@ window.onclick = function(event) {
     }
   }
 }
+
+function readmorefunc() {
+  document.getElementById("redirectlink").classList.toggle("show");
+}
