@@ -90,5 +90,6 @@ div {
 /*The CSS for the Content*/
 #content {
   margin: 20px;
+  font: normal;
 }
 
