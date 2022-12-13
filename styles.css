@@ -97,4 +97,8 @@ div {
   inline-size: auto;
   border-image: round;
 }
+#mythbg {
+  font: normal;
+  margin: 20px;
+}
 
