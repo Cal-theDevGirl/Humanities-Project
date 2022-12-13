@@ -1,6 +1,6 @@
 @font-face {
   font-family: sans-serif;
-  src: url(Helvetica.ttf);
+  src: url(Fonts/Helvetica.ttf);
   font-weight: normal;
 }
 
@@ -10,7 +10,7 @@ div {
 
 @font-face {
   font-family: sans-serif;
-  src: url(Helvetica-Bold.ttf);
+  src: url(Fonts/Helvetica-Bold.ttf);
   font-weight: bold;
 }
 
@@ -20,7 +20,7 @@ div {
 
 @font-face {
   font-family: sans-serif;
-  src: url(helvetica-light-587ebe5a59211.ttf);
+  src: url(Fonts/helvetica-light-587ebe5a59211.ttf);
   font-weight: lighter;
 }
 
