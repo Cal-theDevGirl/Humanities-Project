@@ -93,3 +93,8 @@ div {
   font: normal;
 }
 
+#Images {
+  inline-size: auto;
+  border-image: round;
+}
+
