@@ -94,10 +94,6 @@ div {
   font: normal;
 }
 
-.Images {
-  inline-size: auto;
-  border-image: round;
-  width: 640;
-  height: 240;
+P {
+  width: 75%;
 }
-
