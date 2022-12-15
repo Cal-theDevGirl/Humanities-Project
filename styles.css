@@ -42,7 +42,7 @@ div {
 }
 
 /* Dropdown Button */
-.dropbtn {
+.dropbtn, .readmorebtn {
   background-color: darkturquoise;
   color: white;
   padding: 16px;
