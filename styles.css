@@ -94,7 +94,7 @@ div {
   font: normal;
 }
 
-#Images {
+.Images {
   inline-size: auto;
   border-image: round;
   width: 640;
